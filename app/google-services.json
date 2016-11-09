@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "531344528240",
+    "firebase_url": "https://interviewer1-b0bad.firebaseio.com",
+    "project_id": "interviewer1-b0bad",
+    "storage_bucket": "interviewer1-b0bad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531344528240:android:b27133f4896c0b76",
+        "android_client_info": {
+          "package_name": "com.mac.training.testai_tx2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531344528240-vo7jge6k1g546t6v7ea6mcuovvukie4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mac.training.testai_tx2",
+            "certificate_hash": "E7DA1C7BDB3C247007636DABDD869C846ED2857C"
+          }
+        },
+        {
+          "client_id": "531344528240-qldgojnfriilui2oshds9gqfsadrfacq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJNiHfQzSC92mcKKJSHYXTELJea4BNPIY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531344528240-qldgojnfriilui2oshds9gqfsadrfacq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
